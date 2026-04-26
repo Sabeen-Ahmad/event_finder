@@ -122,7 +122,7 @@ flutter run
 
 - **GitHub:** https://github.com/Sabeen-Ahmad/event_finder
 - **Mock API:** https://github.com/Sabeen-Ahmad/event_finder_api
-- **APK / Screen Recording:** [https://canva.link/bh4covtzkyxbyqf](https://canva.link/yx72gbekpvxts14](https://canva.link/v665kmtsph79zj3)
+- **APK / Screen Recording:** [[https://canva.link/bh4covtzkyxbyqf](https://canva.link/yx72gbekpvxts14](https://canva.link/v665kmtsph79zj3)](https://drive.google.com/file/d/1kLb7BPPeHst2VUHKy3tQiZdOszq88tDr/view?usp=drive_link)
 
 ---
 
