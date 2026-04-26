@@ -17,16 +17,10 @@ A Flutter mobile application that helps users discover and explore nearby events
 - Shows full event details: banner image, title, category, date & time, location, and description
 - "Get Tickets" CTA button
 
----
-****Video Link** **
-
-[https://canva.link/bh4covtzkyxbyqf](https://canva.link/yx72gbekpvxts14)
 ## 🌐 Mock API
 
 Events are fetched via a custom GET endpoint created using **Mocky**.
 
-
-**API URL:**: https://github.com/Sabeen-Ahmad/event_finder_api
 
 **Sample JSON structure:**
 ```json
@@ -127,8 +121,8 @@ flutter run
 ## 📤 Submission
 
 - **GitHub:** https://github.com/Sabeen-Ahmad/event_finder
-- **Mock API:** `<paste your Mocky URL here>`
-- **APK / Screen Recording:** `<attach link here>`
+- **Mock API:** `<[paste your Mocky URL here](https://github.com/Sabeen-Ahmad/event_finder_api)>`
+- **APK / Screen Recording:** `<[https://canva.link/bh4covtzkyxbyqf](https://canva.link/yx72gbekpvxts14)>`
 
 ---
 
