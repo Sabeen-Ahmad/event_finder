@@ -23,7 +23,8 @@ A Flutter mobile application that helps users discover and explore nearby events
 
 Events are fetched via a custom GET endpoint created using **Mocky**.
 
-**API URL:** `https://run.mocky.io/v3/<your-endpoint-id>`
+
+**API URL:**: https://github.com/Sabeen-Ahmad/event_finder_api
 
 **Sample JSON structure:**
 ```json
