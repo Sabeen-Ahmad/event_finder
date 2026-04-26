@@ -18,7 +18,9 @@ A Flutter mobile application that helps users discover and explore nearby events
 - "Get Tickets" CTA button
 
 ---
+****Video Link** **
 
+[https://canva.link/bh4covtzkyxbyqf](https://canva.link/yx72gbekpvxts14)
 ## 🌐 Mock API
 
 Events are fetched via a custom GET endpoint created using **Mocky**.
