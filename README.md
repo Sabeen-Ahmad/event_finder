@@ -121,8 +121,8 @@ flutter run
 ## 📤 Submission
 
 - **GitHub:** https://github.com/Sabeen-Ahmad/event_finder
-- **Mock API:** `(https://github.com/Sabeen-Ahmad/event_finder_api)`
-- **APK / Screen Recording:** `https://canva.link/bh4covtzkyxbyqf](https://canva.link/yx72gbekpvxts14`
+- **Mock API:** https://github.com/Sabeen-Ahmad/event_finder_api
+- **APK / Screen Recording:** https://canva.link/bh4covtzkyxbyqf](https://canva.link/yx72gbekpvxts14
 
 ---
 
